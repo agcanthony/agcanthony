@@ -1,12 +1,26 @@
+## GitHub em números
+
 <div align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=agcanthony&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="Estatísticas do GitHub de Anthony"
+    src="https://raw.githubusercontent.com/agcanthony/agcanthony/master/profile-summary-card-output/tokyonight/0-profile-details.svg"
+    alt="Resumo do perfil GitHub"
+  />
+  <br />
+  <img
+    src="https://raw.githubusercontent.com/agcanthony/agcanthony/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+    alt="Repositórios por linguagem"
   />
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=agcanthony&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=cem_clipnet"
-    alt="Linguagens mais usadas por Anthony"
+    src="https://raw.githubusercontent.com/agcanthony/agcanthony/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg"
+    alt="Linguagens por commits"
+  />
+  <br />
+  <img
+    src="https://raw.githubusercontent.com/agcanthony/agcanthony/master/profile-summary-card-output/tokyonight/3-stats.svg"
+    alt="Estatísticas de contribuições"
+  />
+  <img
+    src="https://raw.githubusercontent.com/agcanthony/agcanthony/master/profile-summary-card-output/tokyonight/4-productive-time.svg"
+    alt="Horários de maior atividade"
   />
 </div>
