@@ -1,4 +1,3 @@
-## GitHub em números
 
 <div align="center">
   <img
